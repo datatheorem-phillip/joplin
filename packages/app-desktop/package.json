@@ -137,7 +137,7 @@
     "@electron/remote": "2.0.9",
     "@fortawesome/fontawesome-free": "5.15.4",
     "@joeattardi/emoji-button": "4.6.4",
-    "@joplin/lib": "~2.11",
+    "@joplin/lib": "~2.10.1",
     "@joplin/renderer": "~2.11",
     "async-mutex": "0.4.0",
     "codemirror": "5.65.9",
