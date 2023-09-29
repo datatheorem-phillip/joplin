@@ -20,7 +20,7 @@
   },
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@joplin/lib": "~2.11",
+    "@joplin/lib": "~1.0.13",
     "@joplin/renderer": "~2.11",
     "@joplin/utils": "~2.11",
     "dayjs": "1.11.7",
@@ -35,7 +35,7 @@
     "node-fetch": "2.6.7",
     "relative": "3.0.2",
     "request": "2.88.2",
-    "sharp": "0.31.3",
+    "sharp": "0.32.6",
     "source-map-support": "0.5.21",
     "uri-template": "2.0.0",
     "yargs": "17.7.1"
