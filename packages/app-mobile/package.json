@@ -20,7 +20,7 @@
   "dependencies": {
     "@joplin/lib": "~2.11",
     "@joplin/react-native-alarm-notification": "~2.11",
-    "@joplin/react-native-saf-x": "~2.11",
+    "@joplin/react-native-saf-x": "~2.10.1",
     "@joplin/renderer": "~2.11",
     "@react-native-community/clipboard": "1.5.1",
     "@react-native-community/datetimepicker": "6.7.5",
@@ -40,7 +40,7 @@
     "prop-types": "15.8.1",
     "punycode": "2.3.0",
     "react": "18.2.0",
-    "react-native": "0.70.6",
+    "react-native": "0.71.0",
     "react-native-action-button": "2.8.5",
     "react-native-camera": "4.2.1",
     "react-native-dialogbox": "0.6.10",
