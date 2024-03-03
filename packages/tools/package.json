@@ -20,8 +20,8 @@
   },
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@joplin/lib": "~2.11",
-    "@joplin/renderer": "~2.11",
+    "@joplin/lib": "~2.2.3",
+    "@joplin/renderer": "~2.11.1",
     "@joplin/utils": "~2.11",
     "dayjs": "1.11.7",
     "execa": "4.1.0",
