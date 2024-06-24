@@ -18,10 +18,10 @@
     "postinstall": "jetify && yarn run build"
   },
   "dependencies": {
-    "@joplin/lib": "~2.11",
+    "@joplin/lib": "~2.12.1",
     "@joplin/react-native-alarm-notification": "~2.11",
     "@joplin/react-native-saf-x": "~2.11",
-    "@joplin/renderer": "~2.11",
+    "@joplin/renderer": "~2.12.1",
     "@react-native-community/clipboard": "1.5.1",
     "@react-native-community/datetimepicker": "6.7.5",
     "@react-native-community/geolocation": "2.1.0",
