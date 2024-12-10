@@ -23,7 +23,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "3.241.0",
     "@fortawesome/fontawesome-free": "5.15.4",
-    "@joplin/lib": "~2.11",
+    "@joplin/lib": "~1.0.13",
     "@joplin/renderer": "~2.11",
     "@koa/cors": "3.1.0",
     "@types/uuid": "9.0.0",
@@ -40,7 +40,7 @@
     "koa": "2.14.1",
     "markdown-it": "13.0.1",
     "mustache": "4.2.0",
-    "nanoid": "2.1.11",
+    "nanoid": "3.3.8",
     "node-cron": "3.0.2",
     "node-env-file": "0.1.8",
     "nodemailer": "6.9.1",
